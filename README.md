@@ -1,2 +1,3 @@
 # ISP-Confuser
-Envia requisições HTTP para websites aleatórios para confundir sua VPN ou ISP(provedora de internet)
+<b>Envia requisições HTTP para websites aleatórios para confundir sua VPN ou provedora de serviços de internet.<b>
+

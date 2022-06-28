@@ -47,7 +47,7 @@ try:
 except ModuleNotFoundError:
     print("Parece que existem algumas bibliotecas faltando.., deseja instalar? S/n")
     modules = input("")
-    if modules == "y":
+    if modules == "s":
         print("Instalando bibliotecas...")
         os.system("pip install requests")
         os.system("pip install colorama")
